@@ -3,9 +3,9 @@
     "app_path": "/home/thuduyen/myproject/init-project",
     "rails_version": "5.1.4",
     "security_warnings": 0,
-    "start_time": "2018-01-17 01:14:27 +0700",
-    "end_time": "2018-01-17 01:14:27 +0700",
-    "duration": 0.071201471,
+    "start_time": "2018-01-17 11:10:27 +0700",
+    "end_time": "2018-01-17 11:10:27 +0700",
+    "duration": 0.104255741,
     "checks_performed": [
       "BasicAuth",
       "BasicAuthTimingAttack",
